@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 layout: page
 title: Jus Ceria – Pilihan Jus Buah Segar
 ---
@@ -31,3 +32,10 @@ title: Jus Ceria – Pilihan Jus Buah Segar
   </div>
   {% endfor %}
 </div>
+=======
+layout: home
+---
+
+# Selamat datang di Jus Ceria
+Website ini menggunakan Jekyll So Simple Theme.
+>>>>>>> 4554064788845dbf97b532b337cd8cbf4e0b6c3e

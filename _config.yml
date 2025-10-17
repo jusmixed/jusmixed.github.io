@@ -52,4 +52,8 @@ defaults:
       type: posts
     values:
       layout: post
+<<<<<<< HEAD
       share: true
+=======
+      share: true
+>>>>>>> 4554064788845dbf97b532b337cd8cbf4e0b6c3e
