@@ -1,0 +1,44 @@
+- judul: Jus Jeruk
+  deskripsi: Segar, vitamin C tinggi, warna oranye cerah
+  gambar: /images/jus-jeruk.jpg
+  url: /jus-jeruk/
+
+- judul: Jus Mangga
+  deskripsi: Manis alami, serat tinggi, warna kuning segar
+  gambar: /images/jus-mangga.jpg
+  url: /jus-mangga/
+
+- judul: Jus Alpukat
+  deskripsi: Lembut, creamy, kaya lemak sehat
+  gambar: /images/jus-alpukat.jpg
+  url: /jus-alpukat/
+
+- judul: Jus Anggur
+  deskripsi: Segar, antioksidan, warna ungu alami
+  gambar: /images/jus-anggur.jpg
+  url: /jus-anggur/
+
+- judul: Jus Stroberi
+  deskripsi: Rasa asam-manis, warna merah cerah
+  gambar: /images/jus-stroberi.jpg
+  url: /jus-stroberi/
+
+- judul: Jus Melon
+  deskripsi: Segar, aroma melon, warna hijau menarik
+  gambar: /images/jus-melon.jpg
+  url: /jus-melon/
+
+- judul: Jus Jambu Merah
+  deskripsi: Manis dan segar, kaya vitamin
+  gambar: /images/jus-jambu.jpg
+  url: /jus-jambu/
+
+- judul: Jus Sirsak
+  deskripsi: Asam segar, membantu daya tahan tubuh
+  gambar: /images/jus-sirsak.jpg
+  url: /jus-sirsak/
+
+- judul: Jus Markisa
+  deskripsi: Aroma khas, asam-manis segar
+  gambar: /images/jus-markisa.jpg
+  url: /jus-markisa/
