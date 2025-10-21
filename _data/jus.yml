@@ -3,14 +3,14 @@
   gambar: /images/jus-mangga.jpg
   url: /jus-mangga/
   warna: "#FFD600"
-  detail_link: /jus-mangga.html
+  detail_link: /jus-mangga.md
 
 - judul: Jus Alpukat
   deskripsi: Jus alpukat segar nikmat dan sehat, tanpa tambahan gula.
   gambar: /images/alpukat.jpg
   url: /jus-alpukat/
   warna: "#A3E635"
-  detail_link: /jus-alpukat.html
+  detail_link: /jus-alpukat.md
 
 - judul: Jus Jeruk
   deskripsi: Kesegaran asam dan manis jus jeruk alami langsung dari buah pilihan.
