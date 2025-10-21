@@ -1,7 +1,7 @@
 - judul: Jus Jeruk
   deskripsi: Jus segar berwarna oranye cerah, kaya vitamin C dan rasa menyegarkan.
   gambar: /images/jus-jeruk.jpg
-  link: /jus-jeruk/
+  url: /jus-jeruk.md
   warna: "#FFA726"
 
 - judul: Jus Mangga
