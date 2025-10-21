@@ -5,12 +5,6 @@ title: Jus Ceria – Pilihan Jus Buah Segar
 
 <!-- Logo Halal di atas -->
 <!-- Logo Halal Tanpa Border Kosong -->
-<div style="text-align:center; margin-bottom:15px; margin-top:10px; background:none;">
-  <img src="/images/logo-halal.png"
-       alt="Logo Halal"
-       style="height:60px; display:inline-block; background:none; box-shadow:none; border:none; margin:auto; padding:0;"/>
-</div>
-
 
 <!-- Navigasi -->
 <nav style="margin-bottom:28px;">
@@ -56,10 +50,19 @@ title: Jus Ceria – Pilihan Jus Buah Segar
 </div>
 
 <!-- Section About -->
-<div id="about" style="margin-bottom:40px;">
-  <h2 style="color:#0275d8;">Tentang Jus Ceria</h2>
-  <p>Jus Ceria menghadirkan berbagai pilihan jus buah segar dengan resep alami, tanpa bahan pengawet dan pewarna buatan, cocok untuk semua generasi.</p>
+<!-- Section About dengan Logo Halal Sejajar -->
+<div id="about" style="margin-bottom:40px; background:#e3f2fd; border-radius:11px; padding:18px 15px; display:flex; align-items:center; gap:22px;">
+  <div style="flex:1;">
+    <h2 style="color:#0275d8;">Tentang Jus Ceria</h2>
+    <p>Jus Ceria menghadirkan berbagai pilihan jus buah segar dengan resep alami, tanpa bahan pengawet dan pewarna buatan, cocok untuk semua generasi.</p>
+  </div>
+  <div style="flex-shrink:0;">
+    <img src="/images/logo-halal.png"
+         alt="Logo Halal"
+         style="height:64px; display:block; background:none; box-shadow:none; border:none; margin:auto; padding:0;"/>
+  </div>
 </div>
+
 
 <!-- Section Alamat -->
 <!-- Section Alamat dan Kontak -->
