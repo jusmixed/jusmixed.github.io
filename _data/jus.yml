@@ -17,14 +17,14 @@
   gambar: /images/jeruk.jpg
   url: /jus-jeruk/
   warna: "#FFD180"
-  detail_link: /jus-jeruk.html
+  detail_link: /jus-jeruk.md
 
 - judul: Jus Lemon
   deskripsi: Rasa asam segar, cocok dinikmati dingin di hari panas!
   gambar: /images/lemon.jpg
   url: /jus-lemon/
   warna: "#FFF700"
-  detail_link: /jus-lemon.html
+  detail_link: /jus-lemon.md
 
 - judul: Jus Apel
   deskripsi: Jus apel organik, enak dan sehat untuk stamina harian.
