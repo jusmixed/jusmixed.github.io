@@ -59,7 +59,7 @@ title: Jus Ceria – Pilihan Jus Buah Segar
   <div style="flex-shrink:0;">
     <img src="/images/logo-halal.png"
      alt="Logo Halal"
-     style="height:64px; display:block; background:transparent; box-shadow:none; border:none; margin:auto; padding:0;"/>
+     style="height:64px; display:block; background:none; box-shadow:none; border:none; margin:auto; padding:0;"/>
 
   </div>
 </div>
