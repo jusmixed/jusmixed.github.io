@@ -31,32 +31,32 @@
   gambar: /images/apel.jpg
   url: /jus-apel/
   warna: "#90EE90"
-  detail_link: /jus-apel.html
+  detail_link: /jus-apel.md
 
 - judul: Jus Stroberi
   deskripsi: Stroberi premium segar, rasa manis dan asam seimbang.
   gambar: /images/stroberi.jpg
   url: /jus-stroberi/
   warna: "#FF6178"
-  detail_link: /jus-stroberi.html
+  detail_link: /jus-stroberi.md
 
 - judul: Jus Melon
   deskripsi: Melon honeydew, manis alami, sangat segar!
   gambar: /images/melon.jpg
   url: /jus-melon/
   warna: "#B2FF59"
-  detail_link: /jus-melon.html
+  detail_link: /jus-melon.md
 
 - judul: Jus Sirsak
   deskripsi: Sirsak penuh vitamin, tekstur lembut dan rasa unik.
   gambar: /images/sirsak.jpg
   url: /jus-sirsak/
   warna: "#E1FFF2"
-  detail_link: /jus-sirsak.html
+  detail_link: /jus-sirsak.md
 
 - judul: Jus Semangka
   deskripsi: Jus semangka murni, sangat segar tanpa tambahan gula.
   gambar: /images/semangka.jpg
   url: /jus-semangka/
   warna: "#FF5D5D"
-  detail_link: /jus-semangka.html
+  detail_link: /jus-semangka.md
