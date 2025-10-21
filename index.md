@@ -3,6 +3,15 @@ layout: page
 title: Jus Ceria – Pilihan Jus Buah Segar
 ---
 
+<!-- Logo Halal di atas -->
+<!-- Logo Halal Tanpa Border Kosong -->
+<div style="text-align:center; margin-bottom:15px; margin-top:10px; background:none;">
+  <img src="/images/logo-halal.png"
+       alt="Logo Halal"
+       style="height:60px; display:inline-block; background:none; box-shadow:none; border:none; margin:auto; padding:0;"/>
+</div>
+
+
 <!-- Navigasi -->
 <nav style="margin-bottom:28px;">
   <a href="#menu" style="padding:7px 15px; margin:0 6px; background:#ff6f00; color:#fff; border-radius:5px;">Menu</a>
@@ -53,8 +62,30 @@ title: Jus Ceria – Pilihan Jus Buah Segar
 </div>
 
 <!-- Section Alamat -->
-<div id="alamat">
-  <h2 style="color:#d9534f;">Alamat & Kontak</h2>
-  <p>Jl. Sehat Segar No.88, Kota Buah, Indonesia<br>
-     Telp/WA: 0812-3456-7890</p>
+<!-- Section Alamat dan Kontak -->
+<div id="alamat" style="margin-bottom:33px; background:#fff3e3; border-radius:12px; padding:16px 15px;">
+  <h2 style="color:#d9534f; font-size:1.15em;">Alamat & Kontak</h2>
+  <p style="font-size:1.05em; margin-bottom:10px;">
+    <a href="https://maps.google.com/?q=Jl.+Pintu+Seng,+RT.12%2FRW.15,+Kapuk,+Kecamatan+Cengkareng,+Kota+Jakarta+Barat,+Daerah+Khusus+Ibukota+Jakarta+11720"
+       target="_blank" style="color:#d9534f; font-weight:600; text-decoration:underline;">
+      Jl. Pintu Seng, RT.12/RW.15, Kapuk, Kecamatan Cengkareng, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11720
+    </a><br>
+    Phone/WA:
+    <a href="https://wa.me/628999563485" target="_blank" style="color:#43a047; font-weight:600; text-decoration:underline;">
+      0899-9563-485
+    </a><br>
+    Province:
+    <a href="https://www.google.com/search?sca_esv=fbaa7d3b9c35fdd6&sxsrf=AE3TifMbAP6JhyMbjCeNLwgsx971jPnZkg:1761040179620&q=DKI+Jakarta+Province&si=AMgyJEuDKtOmISa9Akvtd6wQceP6KMdyloFoUI5CI2g3z4vsMT9nSuQavgbxJWMyZmPYW9tyOXeK-jORxVxsdMhWx1r9hOcAg1nK9kogVB0w8nTq2v7lFjcM9QFkTQa2Dyjaf54XIgcb3IKmJG5B-KYG77NFNH77nQ0YxB73OtmR79nHKOgkNDYDt724-TZHHHmchG6b2kt10iG2hJDGo_CFtJKq9wJcGw%3D%3D&sa=X&sqi=2&ved=2ahUKEwiUsd3ygbWQAxW4yzgGHeeODbgQmxN6BAglEAI" target="_blank" style="color:#0275d8; text-decoration:underline;">
+      Jakarta
+    </a>
+  </p>
+  <!-- Social Media -->
+  <div style="margin-top:8px;">
+  <a href="https://wa.me/628999563485" target="_blank" title="WhatsApp" style="margin-right:12px; font-size:1.2em;">🟢</a>
+  <a href="https://facebook.com/jusceria.id" target="_blank" title="Facebook" style="margin-right:12px; font-size:1.2em;">🔵</a>
+  <a href="https://instagram.com/jusceria.id" target="_blank" title="Instagram" style="margin-right:12px; font-size:1.2em;">🟣</a>
+  <a href="https://www.tiktok.com/@jusceria.id" target="_blank" title="TikTok" style="font-size:1.2em;">⚫️</a>
 </div>
+
+</div>
+
