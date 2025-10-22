@@ -67,29 +67,52 @@ title: Jus Ceria – Pilihan Jus Buah Segar
 
 <!-- Section Alamat -->
 <!-- Section Alamat dan Kontak -->
-<div id="alamat" style="margin-bottom:33px; background:#fff3e3; border-radius:12px; padding:16px 15px;">
-  <h2 style="color:#d9534f; font-size:1.15em;">Alamat & Kontak</h2>
-  <p style="font-size:1.05em; margin-bottom:10px;">
+<div id="alamat" style="margin-bottom:33px; background:#fff3e3; border-radius:12px; padding:19px 17px; box-shadow:0 2px 8px #eee;">
+  <h2 style="color:#d9534f; font-size:1.22em; margin-bottom:10px;">Alamat & Kontak</h2>
+  <p style="font-size:1.09em; color:#5a4633; font-family:'Lora', serif; margin-bottom:16px; line-height:1.6;">
+    Temukan kami di lokasi strategis dan nyaman:<br>
+    <span style="font-weight:600; color:#d9534f">
     <a href="https://maps.google.com/?q=Jl.+Pintu+Seng,+RT.12%2FRW.15,+Kapuk,+Kecamatan+Cengkareng,+Kota+Jakarta+Barat,+Daerah+Khusus+Ibukota+Jakarta+11720"
-       target="_blank" style="color:#d9534f; font-weight:600; text-decoration:underline;">
-      Jl. Pintu Seng, RT.12/RW.15, Kapuk, Kecamatan Cengkareng, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11720
-    </a><br>
-    Phone/WA:
-    <a href="https://wa.me/628999563485" target="_blank" style="color:#43a047; font-weight:600; text-decoration:underline;">
-      0899-9563-485
-    </a><br>
-    Province:
-    <a href="https://www.google.com/search?sca_esv=fbaa7d3b9c35fdd6&sxsrf=AE3TifMbAP6JhyMbjCeNLwgsx971jPnZkg:1761040179620&q=DKI+Jakarta+Province&si=AMgyJEuDKtOmISa9Akvtd6wQceP6KMdyloFoUI5CI2g3z4vsMT9nSuQavgbxJWMyZmPYW9tyOXeK-jORxVxsdMhWx1r9hOcAg1nK9kogVB0w8nTq2v7lFjcM9QFkTQa2Dyjaf54XIgcb3IKmJG5B-KYG77NFNH77nQ0YxB73OtmR79nHKOgkNDYDt724-TZHHHmchG6b2kt10iG2hJDGo_CFtJKq9wJcGw%3D%3D&sa=X&sqi=2&ved=2ahUKEwiUsd3ygbWQAxW4yzgGHeeODbgQmxN6BAglEAI" target="_blank" style="color:#0275d8; text-decoration:underline;">
-      Jakarta
+       target="_blank" style="color:#d9534f; text-decoration:none;">
+      Jl. Pintu Seng, RT.12/RW.15,<br>
+      Kapuk, Kecamatan Cengkareng,<br>
+      Kota Jakarta Barat,<br>
+      Daerah Khusus Ibukota Jakarta 11720
     </a>
+    </span>
+    <br>
+    <span style="font-weight:600; color:#43a047;">
+      WhatsApp/Phone:
+      <a href="https://wa.me/628999563485" target="_blank" style="color:#43a047; text-decoration:underline;">
+        0899-9563-485
+      </a>
+    </span>
+    <br>
+    <span style="font-weight:500;">
+      Provinsi :
+      <a href="https://www.google.com/search?q=DKI+Jakarta+Province" target="_blank" style="color:#0275d8; text-decoration:underline;">
+        Jakarta
+      </a>
+    </span>
   </p>
-  <!-- Social Media -->
-  <div style="margin-top:8px;">
-  <a href="https://wa.me/628999563485" target="_blank" title="WhatsApp" style="margin-right:12px; font-size:1.2em;">🟢</a>
-  <a href="https://facebook.com/jusceria.id" target="_blank" title="Facebook" style="margin-right:12px; font-size:1.2em;">🔵</a>
-  <a href="https://instagram.com/jusceria.id" target="_blank" title="Instagram" style="margin-right:12px; font-size:1.2em;">🟣</a>
-  <a href="https://www.tiktok.com/@jusceria.id" target="_blank" title="TikTok" style="font-size:1.2em;">⚫️</a>
+
+  <!-- Social Media PNG Icons -->
+  <div style="margin-top:2px;">
+    <a href="https://wa.me/628999563485" target="_blank" title="WhatsApp" style="margin-right:15px;">
+      <img src="/images/wa.png" alt="WhatsApp" style="height:27px; vertical-align:middle;"/>
+    </a>
+    <a href="https://facebook.com/jusceria.id" target="_blank" title="Facebook" style="margin-right:15px;">
+      <img src="/images/fb.png" alt="Facebook" style="height:27px; vertical-align:middle;"/>
+    </a>
+    <a href="https://instagram.com/jusceria.id" target="_blank" title="Instagram" style="margin-right:15px;">
+      <img src="/images/ig.png" alt="Instagram" style="height:27px; vertical-align:middle;"/>
+    </a>
+    <a href="https://www.tiktok.com/@jusceria.id" target="_blank" title="TikTok">
+      <img src="/images/tiktok.png" alt="TikTok" style="height:27px; vertical-align:middle;"/>
+    </a>
+  </div>
 </div>
+
 
 </div>
 
