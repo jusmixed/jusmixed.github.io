@@ -69,8 +69,8 @@ title: Jus Ceria – Pilihan Jus Buah Segar
 <!-- Section Alamat dan Kontak -->
 <div id="alamat" style="margin-bottom:33px; background:#fff3e3; border-radius:12px; padding:19px 17px; box-shadow:0 2px 8px #eee;">
   <h2 style="color:#d9534f; font-size:1.22em; margin-bottom:10px;">Alamat & Kontak</h2>
-  <p style="font-size:0.79em; color:#5a4633; font-family:'Lora', serif; margin-bottom:16px; line-height:1.6;">
-    Temukan kami di lokasi strategis dan nyaman:<br>
+  <p style="font-size:0.5em; color:#5a4633; font-family:'Lora', serif; margin-bottom:16px; line-height:1.6;">
+    Depan SDN Kapuk 09 Pagi:<br>
     <span style="font-weight:600; color:#d9534f">
     <a href="https://maps.google.com/?q=Jl.+Pintu+Seng,+RT.12%2FRW.15,+Kapuk,+Kecamatan+Cengkareng,+Kota+Jakarta+Barat,+Daerah+Khusus+Ibukota+Jakarta+11720"
        target="_blank" style="color:#d9534f; text-decoration:none;">
@@ -112,9 +112,6 @@ title: Jus Ceria – Pilihan Jus Buah Segar
     </a>
   </div>
 </div>
-
-</div>
-
 
 </div>
 
