@@ -54,7 +54,7 @@ title: Jus Mixed – Pilihan Jus Buah Segar
 <div id="about" style="margin-bottom:40px; background:#e3f2fd; border-radius:11px; padding:18px 15px; display:flex; align-items:center; gap:22px;">
   <div style="flex:1;">
     <h2 style="color:#0275d8;">Tentang Jus Mixed</h2>
-    <p>Jus Ceria menghadirkan berbagai pilihan jus buah segar dengan resep alami, tanpa bahan pengawet dan pewarna buatan, cocok untuk semua generasi.</p>
+    <p>Jus Mixed menghadirkan berbagai pilihan jus buah segar dengan resep alami, tanpa bahan pengawet dan pewarna buatan, cocok untuk semua generasi.</p>
   </div>
   <div style="flex-shrink:0;">
     <img src="/images/logo-halal.png"
@@ -69,8 +69,8 @@ title: Jus Mixed – Pilihan Jus Buah Segar
 <!-- Section Alamat dan Kontak -->
 <div id="alamat" style="margin-bottom:33px; background:#fff3e3; border-radius:12px; padding:19px 17px; box-shadow:0 2px 8px #eee;">
   <h2 style="color:#d9534f; font-size:1.22em; margin-bottom:10px;">Alamat & Kontak</h2>
-  <p style="font-size:0.89em; color:#5a4633; font-family:'Lora', serif; margin-bottom:16px; line-height:1.6;">
-    Depan SDN Kapuk 09 Pagi:<br>
+  <p style="font-size:0.99em; color:#5a4633; font-family:'Lora', serif; margin-bottom:16px; line-height:1.6;">
+    <b>Depan SDN Kapuk 09 Pagi:</b><br>
     <span style="font-weight:600; color:#d9534f">
       <a href="https://maps.google.com/?q=Jl.+Pintu+Seng,+RT.12%2FRW.15,+Kapuk,+Kecamatan+Cengkareng,+Kota+Jakarta+Barat,+Daerah+Khusus+Ibukota+Jakarta+11720"
          target="_blank" style="color:#d9534f; text-decoration:none;">
@@ -101,18 +101,16 @@ title: Jus Mixed – Pilihan Jus Buah Segar
     <a href="https://wa.me/628999563485" target="_blank" title="WhatsApp" style="margin-right:16px; text-decoration:none;">
       <img src="/images/wa.png" alt="WhatsApp" style="height:27px; vertical-align:middle;"/>
     </a>
-    <a href="https://gofood.co.id/jakarta/restaurant/jusceria-id-xxxx" target="_blank" title="GojekFood" style="margin-right:16px; text-decoration:none;">
+    <a href="https://gofood.co.id/jakarta/restaurant/jusmixed-id-xxxx" target="_blank" title="GojekFood" style="margin-right:16px; text-decoration:none;">
       <img src="/images/gofood.png" alt="GoFood" style="height:27px; vertical-align:middle;"/>
     </a>
-    <a href="https://shopee.co.id/universitas/jusceria-id-xxxx" target="_blank" title="ShopeeFood" style="margin-right:16px; text-decoration:none;">
+    <a href="https://shopee.co.id/universitas/jusmixed-id-xxxx" target="_blank" title="ShopeeFood" style="margin-right:16px; text-decoration:none;">
       <img src="/images/shopeefood.png" alt="ShopeeFood" style="height:27px; vertical-align:middle;"/>
     </a>
-    <a href="https://youtube.com/@jusceriaid" target="_blank" title="YouTube" style="text-decoration:none;">
+    <a href="https://youtube.com/@jusmixedid" target="_blank" title="YouTube" style="text-decoration:none;">
       <img src="/images/youtube.png" alt="YouTube" style="height:27px; vertical-align:middle;"/>
     </a>
   </div>
 </div>
 
-
-</div>
 
