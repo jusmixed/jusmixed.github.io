@@ -69,7 +69,7 @@ title: Jus Ceria – Pilihan Jus Buah Segar
 <!-- Section Alamat dan Kontak -->
 <div id="alamat" style="margin-bottom:33px; background:#fff3e3; border-radius:12px; padding:19px 17px; box-shadow:0 2px 8px #eee;">
   <h2 style="color:#d9534f; font-size:1.22em; margin-bottom:10px;">Alamat & Kontak</h2>
-  <p style="font-size:1.09em; color:#5a4633; font-family:'Lora', serif; margin-bottom:16px; line-height:1.6;">
+  <p style="font-size:0.79em; color:#5a4633; font-family:'Lora', serif; margin-bottom:16px; line-height:1.6;">
     Temukan kami di lokasi strategis dan nyaman:<br>
     <span style="font-weight:600; color:#d9534f">
     <a href="https://maps.google.com/?q=Jl.+Pintu+Seng,+RT.12%2FRW.15,+Kapuk,+Kecamatan+Cengkareng,+Kota+Jakarta+Barat,+Daerah+Khusus+Ibukota+Jakarta+11720"
@@ -83,34 +83,36 @@ title: Jus Ceria – Pilihan Jus Buah Segar
     <br>
     <span style="font-weight:600; color:#43a047;">
       WhatsApp/Phone:
-      <a href="https://wa.me/628999563485" target="_blank" style="color:#43a047; text-decoration:underline;">
+      <a href="https://wa.me/628999563485" target="_blank" style="color:#43a047; text-decoration:none;">
         0899-9563-485
       </a>
     </span>
     <br>
     <span style="font-weight:500;">
       Provinsi :
-      <a href="https://www.google.com/search?q=DKI+Jakarta+Province" target="_blank" style="color:#0275d8; text-decoration:underline;">
+      <a href="https://www.google.com/search?q=DKI+Jakarta+Province" target="_blank" style="color:#0275d8; text-decoration:none;">
         Jakarta
       </a>
     </span>
   </p>
 
-  <!-- Social Media PNG Icons -->
+  <!-- Social Media PNG Icons tanpa garis bawah -->
   <div style="margin-top:2px;">
-    <a href="https://wa.me/628999563485" target="_blank" title="WhatsApp" style="margin-right:15px;">
+    <a href="https://wa.me/628999563485" target="_blank" title="WhatsApp" style="margin-right:15px; text-decoration:none;">
       <img src="/images/wa.png" alt="WhatsApp" style="height:27px; vertical-align:middle;"/>
     </a>
-    <a href="https://facebook.com/jusceria.id" target="_blank" title="Facebook" style="margin-right:15px;">
+    <a href="https://facebook.com/jusceria.id" target="_blank" title="Facebook" style="margin-right:15px; text-decoration:none;">
       <img src="/images/fb.png" alt="Facebook" style="height:27px; vertical-align:middle;"/>
     </a>
-    <a href="https://instagram.com/jusceria.id" target="_blank" title="Instagram" style="margin-right:15px;">
+    <a href="https://instagram.com/jusceria.id" target="_blank" title="Instagram" style="margin-right:15px; text-decoration:none;">
       <img src="/images/ig.png" alt="Instagram" style="height:27px; vertical-align:middle;"/>
     </a>
-    <a href="https://www.tiktok.com/@jusceria.id" target="_blank" title="TikTok">
+    <a href="https://www.tiktok.com/@jusceria.id" target="_blank" title="TikTok" style="text-decoration:none;">
       <img src="/images/tiktok.png" alt="TikTok" style="height:27px; vertical-align:middle;"/>
     </a>
   </div>
+</div>
+
 </div>
 
 
