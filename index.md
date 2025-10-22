@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jus Ceria – Pilihan Jus Buah Segar
+title: Jus Mixed – Pilihan Jus Buah Segar
 ---
 
 <!-- Logo Halal di atas -->
@@ -53,7 +53,7 @@ title: Jus Ceria – Pilihan Jus Buah Segar
 <!-- Section About dengan Logo Halal Sejajar -->
 <div id="about" style="margin-bottom:40px; background:#e3f2fd; border-radius:11px; padding:18px 15px; display:flex; align-items:center; gap:22px;">
   <div style="flex:1;">
-    <h2 style="color:#0275d8;">Tentang Jus Ceria</h2>
+    <h2 style="color:#0275d8;">Tentang Jus Mixed</h2>
     <p>Jus Ceria menghadirkan berbagai pilihan jus buah segar dengan resep alami, tanpa bahan pengawet dan pewarna buatan, cocok untuk semua generasi.</p>
   </div>
   <div style="flex-shrink:0;">
@@ -69,16 +69,16 @@ title: Jus Ceria – Pilihan Jus Buah Segar
 <!-- Section Alamat dan Kontak -->
 <div id="alamat" style="margin-bottom:33px; background:#fff3e3; border-radius:12px; padding:19px 17px; box-shadow:0 2px 8px #eee;">
   <h2 style="color:#d9534f; font-size:1.22em; margin-bottom:10px;">Alamat & Kontak</h2>
-  <p style="font-size:0.5em; color:#5a4633; font-family:'Lora', serif; margin-bottom:16px; line-height:1.6;">
+  <p style="font-size:0.89em; color:#5a4633; font-family:'Lora', serif; margin-bottom:16px; line-height:1.6;">
     Depan SDN Kapuk 09 Pagi:<br>
     <span style="font-weight:600; color:#d9534f">
-    <a href="https://maps.google.com/?q=Jl.+Pintu+Seng,+RT.12%2FRW.15,+Kapuk,+Kecamatan+Cengkareng,+Kota+Jakarta+Barat,+Daerah+Khusus+Ibukota+Jakarta+11720"
-       target="_blank" style="color:#d9534f; text-decoration:none;">
-      Jl. Pintu Seng, RT.12/RW.15,<br>
-      Kapuk, Kecamatan Cengkareng,<br>
-      Kota Jakarta Barat,<br>
-      Daerah Khusus Ibukota Jakarta 11720
-    </a>
+      <a href="https://maps.google.com/?q=Jl.+Pintu+Seng,+RT.12%2FRW.15,+Kapuk,+Kecamatan+Cengkareng,+Kota+Jakarta+Barat,+Daerah+Khusus+Ibukota+Jakarta+11720"
+         target="_blank" style="color:#d9534f; text-decoration:none;">
+        Jl. Pintu Seng, RT.12/RW.15,<br>
+        Kapuk, Kecamatan Cengkareng,<br>
+        Kota Jakarta Barat,<br>
+        Daerah Khusus Ibukota Jakarta 11720
+      </a>
     </span>
     <br>
     <span style="font-weight:600; color:#43a047;">
@@ -96,22 +96,23 @@ title: Jus Ceria – Pilihan Jus Buah Segar
     </span>
   </p>
 
-  <!-- Social Media PNG Icons tanpa garis bawah -->
+  <!-- Media Sosial & Food Platform (tanpa garis bawah/underline) -->
   <div style="margin-top:2px;">
-    <a href="https://wa.me/628999563485" target="_blank" title="WhatsApp" style="margin-right:15px; text-decoration:none;">
+    <a href="https://wa.me/628999563485" target="_blank" title="WhatsApp" style="margin-right:16px; text-decoration:none;">
       <img src="/images/wa.png" alt="WhatsApp" style="height:27px; vertical-align:middle;"/>
     </a>
-    <a href="https://facebook.com/jusceria.id" target="_blank" title="Facebook" style="margin-right:15px; text-decoration:none;">
-      <img src="/images/fb.png" alt="Facebook" style="height:27px; vertical-align:middle;"/>
+    <a href="https://gofood.co.id/jakarta/restaurant/jusceria-id-xxxx" target="_blank" title="GojekFood" style="margin-right:16px; text-decoration:none;">
+      <img src="/images/gofood.png" alt="GoFood" style="height:27px; vertical-align:middle;"/>
     </a>
-    <a href="https://instagram.com/jusceria.id" target="_blank" title="Instagram" style="margin-right:15px; text-decoration:none;">
-      <img src="/images/ig.png" alt="Instagram" style="height:27px; vertical-align:middle;"/>
+    <a href="https://shopee.co.id/universitas/jusceria-id-xxxx" target="_blank" title="ShopeeFood" style="margin-right:16px; text-decoration:none;">
+      <img src="/images/shopeefood.png" alt="ShopeeFood" style="height:27px; vertical-align:middle;"/>
     </a>
-    <a href="https://www.tiktok.com/@jusceria.id" target="_blank" title="TikTok" style="text-decoration:none;">
-      <img src="/images/tiktok.png" alt="TikTok" style="height:27px; vertical-align:middle;"/>
+    <a href="https://youtube.com/@jusceriaid" target="_blank" title="YouTube" style="text-decoration:none;">
+      <img src="/images/youtube.png" alt="YouTube" style="height:27px; vertical-align:middle;"/>
     </a>
   </div>
 </div>
+
 
 </div>
 
