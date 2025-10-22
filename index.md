@@ -56,12 +56,6 @@ title: Jus Mixed – Pilihan Jus Buah Segar
     <h2 style="color:#0275d8;">Tentang Jus Mixed</h2>
     <p>Jus Mixed menghadirkan berbagai pilihan jus buah segar dengan resep alami, tanpa bahan pengawet dan pewarna buatan, cocok untuk semua generasi.</p>
   </div>
-  <div style="flex-shrink:0;">
-    <img src="/images/logo-halal.png"
-     alt="Logo Halal"
-     style="height:64px; display:block; background:none; box-shadow:none; border:none; margin:auto; padding:0;"/>
-
-  </div>
 </div>
 
 
@@ -69,7 +63,7 @@ title: Jus Mixed – Pilihan Jus Buah Segar
 <!-- Section Alamat dan Kontak -->
 <div id="alamat" style="margin-bottom:33px; background:#fff3e3; border-radius:12px; padding:19px 17px; box-shadow:0 2px 8px #eee;">
   <h2 style="color:#d9534f; font-size:1.22em; margin-bottom:10px;">Alamat & Kontak</h2>
-  <p style="font-size:0.99em; color:#5a4633; font-family:'Lora', serif; margin-bottom:16px; line-height:1.6;">
+  <p style="font-size:0.99em; color:#5a4633; font-family:'Lora', serif; margin-bottom:16px; line-height:1.6; font-weight:600">
     <b>Depan SDN Kapuk 09 Pagi:</b><br>
     <span style="font-weight:600; color:#d9534f">
       <a href="https://maps.google.com/?q=Jl.+Pintu+Seng,+RT.12%2FRW.15,+Kapuk,+Kecamatan+Cengkareng,+Kota+Jakarta+Barat,+Daerah+Khusus+Ibukota+Jakarta+11720"
@@ -88,8 +82,8 @@ title: Jus Mixed – Pilihan Jus Buah Segar
       </a>
     </span>
     <br>
-    <span style="font-weight:500;">
-      Provinsi :
+    <span style="font-weight:600; ">
+      Lokasi :
       <a href="https://www.google.com/search?q=DKI+Jakarta+Province" target="_blank" style="color:#0275d8; text-decoration:none;">
         Jakarta
       </a>
