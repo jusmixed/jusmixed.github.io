@@ -22,20 +22,41 @@ plugins:
   - jekyll-paginate
 
 author:
-  name: Jus Mixed
-  picture:
-  email:
-  twitter:
+  name: "Jus Mixed"
+  picture: "/images/logo-jusmixed.png"  # Ganti dengan path gambar logo bisnis Anda jika ingin tampil di bio/footer
+  email: "info@jusmixed.id"             # Ganti dengan email bisnis Anda
+  twitter: "jusmixedID"                 # Username Twitter bila ada
   links:
-    - title:
-      url:
-      icon:
+    - title: "WhatsApp"
+      url: "https://wa.me/628999563485"
+      icon: "fab fa-whatsapp"
+    - title: "GoFood"
+      url: "https://gofood.co.id/jakarta/restaurant/jusmixed-id-xxxx"
+      icon: "fas fa-utensils"
+    - title: "ShopeeFood"
+      url: "https://shopee.co.id/universitas/jusmixed-id-xxxx"
+      icon: "fas fa-shopping-basket"
+    - title: "YouTube"
+      url: "https://youtube.com/@jusmixedid"
+      icon: "fab fa-youtube"
 
 footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
-
+  - title: "Feed"
+    url: "atom.xml"
+    icon: "fas fa-rss-square"
+  - title: "WhatsApp"
+    url: "https://wa.me/628999563485"
+    icon: "fab fa-whatsapp"
+  - title: "GoFood"
+    url: "https://gofood.co.id/jakarta/restaurant/jusmixed-id-xxxx"
+    icon: "fas fa-utensils"
+  - title: "ShopeeFood"
+    url: "https://shopee.co.id/universitas/jusmixed-id-xxxx"
+    icon: "fas fa-shopping-basket"
+  - title: "YouTube"
+    url: "https://youtube.com/@jusmixedid"
+    icon: "fab fa-youtube"
+    
 liquid:
   error_mode: strict
 
