@@ -60,3 +60,24 @@
   url: /jus-semangka/
   warna: "#FF5D5D"
   detail_link: /jus-semangka.md
+
+- judul: Jus Nanas
+  deskripsi: Jus Nanas eksotis, rasa segar manis asam dan membantu melancarkan pencernaan.
+  gambar: /images/nanas.jpg
+  url: /jus-nanas/
+  warna: "#FF5D5D"
+  detail_link: /jus-nanas.md
+
+- judul: Jus Anggur
+  deskripsi: Jus Anggur manis dan penuh antioksidan, baik untuk kesehatan jantung serta memberi sensasi rasa mewah.
+  gambar: /images/anggur.jpg
+  url: /jus-anggur/
+  warna: "#FF5D5D"
+  detail_link: /jus-anggur.md
+
+  - judul: Jus Jambu Merah
+  deskripsi: Segar dan kaya vitamin C, jus jambu merah cocok dikonsumsi kapan saja untuk menjaga daya tahan tubuh.
+  gambar: /images/jambumerah.jpg
+  url: /jus-jambumerah/
+  warna: "#FF5D5D"
+  detail_link: /jus-jambumerah.md
