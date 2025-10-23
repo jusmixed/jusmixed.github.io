@@ -114,7 +114,7 @@ title: Jus Mixed – Pilihan Jus Buah Segar
       <a href="https://shopee.co.id/universitas/jusmixed-id-xxxx" target="_blank" title="ShopeeFood" style="margin-right:18px; text-decoration:none;">
         <img src="/images/shopeefood.png" alt="ShopeeFood" style="height:28px; vertical-align:middle;"/>
       </a>
-      <a href="https://tiktok.com/@jusmixedid" target="_blank" title="Tiktok" style="margin-right:18px; text-decoration:none;">
+      <a href="https://tiktok.com/@jusmixed" target="_blank" title="Tiktok" style="margin-right:18px; text-decoration:none;">
         <img src="/images/tiktok.png" alt="Tiktok" style="height:28px; vertical-align:middle;"/>
       </a>
       <a href="https://youtube.com/@jusmixedid" target="_blank" title="YouTube" style="text-decoration:none;">
