@@ -61,7 +61,8 @@ title: Jus Mixed – Pilihan Jus Buah Segar
 
 <!-- Section Alamat -->
 <!-- Section Alamat dan Kontak -->
-<div id="alamat" style="margin-bottom:33px; background:#fff3e3; border-radius:12px; padding:19px 17px; box-shadow:0 2px 8px #eee;">
+<div id="alamat" style="margin-bottom:33px; background:#fff3e3; border-radius:12px; padding:19px 17px; box-shadow:0 2px 8px #eee; display:flex; flex-wrap:wrap; gap:30px; align-items:flex-start;">
+  <div style="flex:1; min-width:215px;">
   <h2 style="color:#d9534f; font-size:1.22em; margin-bottom:10px;">Alamat & Kontak</h2>
   <p style="font-size:0.99em; color:#5a4633; font-family:'Lora', serif; margin-bottom:16px; line-height:1.6; font-weight:600">
     <b>Depan SDN Kapuk 09 Pagi:</b><br>
