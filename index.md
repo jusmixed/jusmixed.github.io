@@ -61,55 +61,79 @@ title: Jus Mixed – Pilihan Jus Buah Segar
 
 <!-- Section Alamat -->
 <!-- Section Alamat dan Kontak -->
-<div id="alamat" style="margin-bottom:33px; background:#fff3e3; border-radius:12px; padding:19px 17px; box-shadow:0 2px 8px #eee; display:flex; flex-wrap:wrap; gap:30px; align-items:flex-start;">
-  <div style="flex:1; min-width:215px;">
-  <h2 style="color:#d9534f; font-size:1.22em; margin-bottom:10px;">Alamat & Kontak</h2>
-  <p style="font-size:0.99em; color:#5a4633; font-family:'Lora', serif; margin-bottom:16px; line-height:1.6; font-weight:600">
-    <b>Depan SDN Kapuk 09 Pagi:</b><br>
-    <span style="font-weight:600; color:#d9534f">
-      <a href="https://maps.google.com/?q=Jl.+Pintu+Seng,+RT.12%2FRW.15,+Kapuk,+Kecamatan+Cengkareng,+Kota+Jakarta+Barat,+Daerah+Khusus+Ibukota+Jakarta+11720"
-         target="_blank" style="color:#d9534f; text-decoration:none;">
-        Jl. Pintu Seng, RT.12/RW.15,<br>
-        Kapuk, Kecamatan Cengkareng,<br>
-        Kota Jakarta Barat,<br>
-        Daerah Khusus Ibukota Jakarta 11720
-      </a>
-    </span>
-    <br>
-    <span style="font-weight:600; color:#43a047;">
-      WhatsApp/Phone:
-      <a href="https://wa.me/628999563485" target="_blank" style="color:#43a047; text-decoration:none;">
-        0899-9563-485
-      </a>
-    </span>
-    <br>
-    <span style="font-weight:600; ">
-      Lokasi :
-      <a href="https://www.google.com/search?q=DKI+Jakarta+Province" target="_blank" style="color:#0275d8; text-decoration:none;">
-        Jakarta
-      </a>
-    </span>
-  </p>
+<!-- Section Alamat dan Kontak + Peta Google Maps -->
+<div id="alamat" style="
+  margin-bottom:33px;
+  background:#fff3e3;
+  border-radius:12px;
+  padding:19px 17px;
+  box-shadow:0 2px 8px #eee;
+  display:flex;
+  flex-wrap:wrap;
+  gap:30px;
+  align-items:flex-start;
+">
 
-  <!-- Media Sosial & Food Platform (tanpa garis bawah/underline) -->
-  <div style="margin-top:2px;">
-    <a href="https://wa.me/628999563485" target="_blank" title="WhatsApp" style="margin-right:16px; text-decoration:none;">
-      <img src="/images/wa.png" alt="WhatsApp" style="height:27px; vertical-align:middle;"/>
-    </a>
-    <a href="https://gofood.co.id/jakarta/restaurant/jusmixed-id-xxxx" target="_blank" title="GojekFood" style="margin-right:16px; text-decoration:none;">
-      <img src="/images/gofood.png" alt="GoFood" style="height:27px; vertical-align:middle;"/>
-    </a>
-    <a href="https://shopee.co.id/universitas/jusmixed-id-xxxx" target="_blank" title="ShopeeFood" style="margin-right:16px; text-decoration:none;">
-      <img src="/images/shopeefood.png" alt="ShopeeFood" style="height:27px; vertical-align:middle;"/>
-    </a>
-    <a href="https://youtube.com/@jusmixedid" target="_blank" title="YouTube" style="text-decoration:none;">
-      <img src="/images/youtube.png" alt="YouTube" style="height:27px; vertical-align:middle;"/>
-    </a>
+  <!-- Alamat & Kontak -->
+  <div style="flex:1; min-width:220px;">
+    <h2 style="color:#d9534f; font-size:1.22em; margin-bottom:10px;">Alamat & Kontak</h2>
+    <p style="font-size:1em; color:#5a4633; font-family:'Lora',serif; margin-bottom:18px; line-height:1.6; font-weight:600;">
+      <b>Depan SDN Kapuk 09 Pagi:</b><br>
+      <span style="color:#d9534f;">
+        <a href="https://maps.google.com/?q=Jl.+Pintu+Seng,+RT.12%2FRW.15,+Kapuk,+Kecamatan+Cengkareng,+Kota+Jakarta+Barat,+Daerah+Khusus+Ibukota+Jakarta+11720" target="_blank" style="color:#d9534f; text-decoration:none;">
+          Jl. Pintu Seng, RT.12/RW.15,<br>
+          Kapuk, Kecamatan Cengkareng,<br>
+          Kota Jakarta Barat,<br>
+          Daerah Khusus Ibukota Jakarta 11720
+        </a>
+      </span>
+      <br>
+      <span style="color:#43a047;">
+        WhatsApp/Phone:
+        <a href="https://wa.me/628999563485" target="_blank" style="color:#43a047; text-decoration:none;">
+          0899-9563-485
+        </a>
+      </span>
+      <br>
+      <span>
+        Lokasi:
+        <a href="https://www.google.com/search?q=DKI+Jakarta+Province" target="_blank" style="color:#0275d8; text-decoration:none;">
+          Jakarta
+        </a>
+      </span>
+    </p>
+
+    <!-- Media Sosial & Food Platform -->
+    <div style="margin-bottom:16px;">
+      <a href="https://wa.me/628999563485" target="_blank" title="WhatsApp" style="margin-right:18px; text-decoration:none;">
+        <img src="/images/wa.png" alt="WhatsApp" style="height:28px; vertical-align:middle;"/>
+      </a>
+      <a href="https://gofood.co.id/jakarta/restaurant/jusmixed-id-xxxx" target="_blank" title="GojekFood" style="margin-right:18px; text-decoration:none;">
+        <img src="/images/gofood.png" alt="GoFood" style="height:28px; vertical-align:middle;"/>
+      </a>
+      <a href="https://shopee.co.id/universitas/jusmixed-id-xxxx" target="_blank" title="ShopeeFood" style="margin-right:18px; text-decoration:none;">
+        <img src="/images/shopeefood.png" alt="ShopeeFood" style="height:28px; vertical-align:middle;"/>
+      </a>
+      <a href="https://youtube.com/@jusmixedid" target="_blank" title="YouTube" style="text-decoration:none;">
+        <img src="/images/youtube.png" alt="YouTube" style="height:28px; vertical-align:middle;"/>
+      </a>
+    </div>
   </div>
-   <div style="min-width:220px;">
-    <!-- Peta Google Maps Embed di sini -->
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.872476673503!2d106.73993007585969!3d-6.147824260265217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f7e6232c99af%3A0xfbe8ab5a40450aa7!2sSDN%20Kapuk%2009%20Pagi%2C%2010%20Petang!5e0!3m2!1sen!2sid!4v1761200595203!5m2!1sen!2sid" width="350" height="220" style="border:0; border-radius:12px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+  <!-- Peta Google Maps -->
+  <div style="min-width:240px; max-width:380px; flex:1; display:flex; justify-content:center;">
+    <iframe
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.872476673503!2d106.73993007585969!3d-6.147824260265217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f7e6232c99af%3A0xfbe8ab5a40450aa7!2sSDN%20Kapuk%2009%20Pagi%2C%2010%20Petang!5e0!3m2!1sen!2sid!4v1761200595203!5m2!1sen!2sid"
+      width="100%"
+      height="235"
+      style="border:0; border-radius:16px; box-shadow:0 2px 12px #bbb;"
+      allowfullscreen=""
+      loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
   </div>
+
 </div>
+
 
 
