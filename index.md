@@ -103,6 +103,21 @@ title: Jus Mixed – Pilihan Jus Buah Segar
       </span>
     </p>
 
+    <!-- Tombol Pemesanan Acara/Borongan -->
+<div style="text-align:center; margin-bottom:18px;">
+  <a href="https://forms.gle/vUqKaVUeP9Lcook88" target="_blank"
+     style="display:inline-block; background:#43a047; color:#fff;
+            font-weight:600; padding: 11px 25px; border-radius:7px;
+            font-size:1.08em; box-shadow:0 2px 8px #b5e4c5;
+            text-decoration:none; transition:.2s;">
+    Pesan Banyak / Acara &nbsp;<i class="fas fa-calendar-check"></i>
+  </a>
+  <div style="font-size:0.92em; color:#227c2c; margin-top:7px;">
+    Klik untuk formulir pemesanan minimal 5 botol atau pemesanan acara.
+  </div>
+</div>
+
+
     <!-- Media Sosial & Food Platform -->
     <div style="margin-bottom:16px;">
       <a href="https://wa.me/628999563485" target="_blank" title="WhatsApp" style="margin-right:18px; text-decoration:none;">
